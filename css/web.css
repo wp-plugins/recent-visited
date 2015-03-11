@@ -1,0 +1,68 @@
+/* Css document */
+
+ul.recent_unc_visited{
+	
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+
+li.recent_unc_sigle_item{
+
+	list-style:none;
+	border:1px solid rgba(82, 158, 206, 0.22);
+	margin:10px;
+	float:left;
+	width:20%;
+	border-radius:4px;
+}
+
+li.recent_unc_sigle_item{
+
+	text-decoration:none;
+}
+
+.visited_content{
+
+	font-size:13px;
+	margin-top:10px;
+	padding:10px;
+}
+
+
+.visited_thumb{
+
+	padding:0px;
+}
+
+.visited_title{
+
+	text-decoration:none;
+	font-weight:bold;
+	color:#2980b9;
+	padding:10px;
+}
+
+li a.visited_read_more{
+
+	color:#fff;
+	background:#2980b9;
+	text-decoration:none;
+	padding:3px 4px;
+}
+
+li.recent_unc_sigle_item a:active{
+	border:none;
+	text-decoration: none;
+	outline: 0;
+}
+
+.visited_items_thumb{
+
+	width:100%;
+}
+
+.clear_visited{
+
+	clear:both;
+}
