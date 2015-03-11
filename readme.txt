@@ -24,5 +24,9 @@ Question. is this plugin support custom post types , like products etc ?
 
 Answer: yes, it supports all registered post types.
 
+== Screenshots ==
+1. http://s1.postimg.org/mneagpd5r/screenshot_1.png
+2. http://s3.postimg.org/n9zkz1hw3/screenshot_2.png
+
 == Changelog ==
 released first version 1.0
